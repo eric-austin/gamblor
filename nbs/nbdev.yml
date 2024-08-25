@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gamblor"
+  site-url: "https://eric-austin.github.io/gamblor"
+  description: "Trading and sports betting app"
+  repo-branch: main
+  repo-url: "https://github.com/eric-austin/gamblor"
